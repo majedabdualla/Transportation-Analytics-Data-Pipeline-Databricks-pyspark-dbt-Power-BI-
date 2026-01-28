@@ -1,0 +1,15 @@
+version: 2
+
+sources:
+  - name: source_silver
+    database: transportation_service_company  
+    schema: silver 
+    tables:
+      - name: drivers
+      - name: customers
+      - name: payments
+      - name: trips
+      - name: locations
+      - name: vehicles
+      
+
