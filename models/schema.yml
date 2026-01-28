@@ -30,6 +30,7 @@ models:
          tests:
             - is_valid_sk
 
+
   - name: dim_date
     columns:
        - name: date_sk
