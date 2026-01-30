@@ -14,3 +14,4 @@ case
 
 
 FROM {{ ref('scd_vehicles') }}
+--
